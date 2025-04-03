@@ -3,6 +3,7 @@
 A quick experimental VR project I built to explore XR development in Unity.  
 Think Fruit Ninja — but with real-time mesh slicing, haptics, bombs, and a light level system.  
 
+Will finish it as soon as fix my headset drivers hehe 
 I had some ideas for adding boss fights and unique mechanics later, but not sure if I’ll revisit it — for now, it’s just a fun little prototype.
 
 ---
