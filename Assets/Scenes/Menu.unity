@@ -1074,7 +1074,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7de18b7ee1554a140bed2615e91e9c91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buttonPrefab: {fileID: 394412008702454221, guid: 3d32f91fd23bf724e8fdbea0143138dc, type: 3}
+  buttonPrefab: {fileID: 6911714690106689958, guid: 25cf941fa5647e940bea670a99c6c5a8, type: 3}
   buttonContainer: {fileID: 746909377}
   availableLevels:
   - {fileID: 11400000, guid: 52dab20cd5b8db34ebd435080fab86a0, type: 2}
